@@ -8,112 +8,21 @@ body {
   height: 300px;
   position: absolute;
   bottom: -20px;
-
-  animation-name: larrybird;
-  animation-duration: 4s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
 }
 
+/*
 @keyframes walk {
-  0% {
-   left: 0;
- }
- 100% {
-   left: 90%;
- }
 }
 
 @keyframes moonwalk {
-  0% {
-   left: 0;
- }
- 50% {
-   left: 90%;
- }
- 100% {
-   left: 0;
- }
 }
 
 @keyframes pacer {
-  0% {
-   left: 0;
-   transform: scaleX(1);
- }
- 50% {
-   left: 90%;
-   transform: scaleX(1);
- }
- 51% {
-   transform: scaleX(-1);
- }
- 100% {
-   left: 0;
-   transform: scaleX(-1);
- }
 }
 
-
 @keyframes beffies {
-  0% {
-   left: 0;
-   transform: rotate(-45deg);
- }
- 50% {
-   left: 40%;
-   bottom: 40%;
- }
- 51% {
-   transform: rotate(-45deg);
- }
- 75% {
-   left: 40%;
-   bottom: 40%;
-   transform: rotate(360deg);
- }
- 100% {
-   left: 40%;
-   bottom: 40%;
-   transform: rotate(720deg);
- }
 }
 
 @keyframes larrybird {
-  0% {
-    left: 0;
-  }
-  12.5% {
-    left: 12.5%;
-    bottom: 10%;
-  }
-  25% {
-    left: 25%;
-    bottom: 0;
-  }
-  37.5% {
-    left: 37.5%;
-    bottom: 10%;
-  }
-  50% {
-    left: 50%;
-    bottom: 0;
-  }
-  62.5% {
-    left: 62.5%;
-    bottom: 10%;
-  }
-  75% {
-    left: 75%;
-    bottom: 0;
-  }
-  87.5% {
-    left: 87.5%;
-    bottom: 10%;
-  }
-  100% {
-    left: 100%;
-    bottom: 0;
-  }
-
 }
+*/
