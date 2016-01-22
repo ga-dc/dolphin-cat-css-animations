@@ -36,3 +36,5 @@ Tips:
 ### Larry Bird (a cat's favorite prey)
 
 Make Snuggles the cat bounce across the screen like a basketball.
+
+Here's one solution: http://ga-dc.github.io/dolphin-cat-css-animations/
