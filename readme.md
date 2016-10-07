@@ -37,4 +37,4 @@ Tips:
 
 Make Snuggles the cat bounce across the screen like a basketball.
 
-Here's one solution: http://ga-dc.github.io/dolphin-cat-css-animations/
+Here's one solution: http://ga-wdi-exercises.github.io/dolphin-cat-css-animations/
